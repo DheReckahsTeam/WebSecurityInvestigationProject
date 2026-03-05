@@ -219,18 +219,19 @@ This section lists sources mentioning or directly related to **DheReckahsTeam**,
     [https://t.me/dhereckahsteam](https://t.me/dhereckahsteam)
 
 16. **ExAuthor,CEO And Co-Founder's Profile** — DheReckahHimSelf as the CEO / Dhecybersoldier as the ExAuthor (Who later reconciled in 2025)  
-    [https://www.linkedin.com/in/dhereckahhimself](https://www.linkedin.com/in/dhereckahhimself)[https://www.instagram.com/dhecybersoldier/]([https://www.linkedin.com/in/dhereckahhimself](https://www.instagram.com/dhecybersoldier/))
+    [https://www.linkedin.com/in/dhereckahhimself](https://www.linkedin.com/in/dhereckahhimself)
+    [https://www.instagram.com/dhecybersoldier/](https://www.instagram.com/dhecybersoldier/)
 
-17. **X (Twitter) Profile** — DheReckahCoded (lead developer for DheReckahsTeam projects)  
+18. **X (Twitter) Profile** — DheReckahCoded (lead developer for DheReckahsTeam projects)  
     [https://x.com/DheReckahCoded](https://x.com/DheReckahCoded)
 
-18. **EverybodyWiki - Related Entry** — Mention in Garuna Ops page (cross-reference to DheReckahsTeam)  
+19. **EverybodyWiki - Related Entry** — Mention in Garuna Ops page (cross-reference to DheReckahsTeam)  
     [https://en.everybodywiki.com/Garuna_Ops](https://en.everybodywiki.com/Garuna_Ops)
 
-19. **U.S. FBI Advisories** — General guidance on MFA/2FA bypass risks (SIM swapping, social engineering, proxies; 2019–2025) — contextual alignment with 2FABypass research  
+20. **U.S. FBI Advisories** — General guidance on MFA/2FA bypass risks (SIM swapping, social engineering, proxies; 2019–2025) — contextual alignment with 2FABypass research  
     (Multiple FBI alerts; e.g., see public FBI.gov publications on MFA vulnerabilities)
 
-20. **Related Media Context** — Broader discussions on 2FA bypass techniques (ZDNet, Bitdefender, Forbes articles on MFA flaws; not direct DheReckahsTeam coverage but thematic relevance)  
+21. **Related Media Context** — Broader discussions on 2FA bypass techniques (ZDNet, Bitdefender, Forbes articles on MFA flaws; not direct DheReckahsTeam coverage but thematic relevance)  
     (Search ZDNet/Bitdefender/Forbes for "2FA bypass" or "MFA vulnerabilities" 2020–2025)
 
 
