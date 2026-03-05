@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0" width="640" style="margin: 1.5rem 0;">
-  <h1>DheReckahsTeam</h1>
-  <span style="color: #ff6ac1; font-weight: bold; font-size: 1.5rem;">Hybrid (Offensive + Defensive) Cybersecurity Organization</span><br><br>
-  <span style="color: #ffd700; letter-spacing: 4px; font-size: 1.6rem; font-weight: 700;">LAY THE FOUNDATION OF</span><br><br>
-  <span style="color: #a5d8ff; font-size: 1.9rem; font-weight: bold;">DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)</span>
+  <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
 
-  <h3 style="margin: 3rem 0 1.5rem; color: #ffffff; font-size: 1.8rem;">MOTTO</h3>
-  <blockquote align="center" style="font-size: 1.35rem; font-weight: 600; color: #e0e0ff; margin: 2.5rem 0; line-height: 2.4; letter-spacing: 0.7px; background: rgba(30, 30, 60, 0.45); padding: 2.8rem 2rem; border-radius: 16px; border: 1px solid rgba(100, 100, 255, 0.3); backdrop-filter: blur(10px); box-shadow: 0 10px 40px rgba(0,0,0,0.5); max-width: 90%;">
-    <strong style="font-size: 2.5rem; color: #ffffff; display: block; margin-bottom: 1.6rem; text-shadow: 0 0 14px rgba(255,255,255,0.7);">
-      We Are Not Group. We Are Generation.
-    </strong><br>
-    We Extradited <em><a href="https://github.com/2FABypass" style="color: #00d4ff; text-decoration: none; font-weight: bold;">2FABypass</a></em><br>
-    We Developed <em><a href="https://github.com/2SSDP" style="color: #00d4ff; text-decoration: none; font-weight: bold;">2SSDP</a></em><br>
-    We Founded <em><a href="https://github.com/DRHGM" style="color: #00d4ff; text-decoration: none; font-weight: bold;">DRHGM</a></em><br>
-    We Ensured <em><a href="https://github.com/DheWSIP" style="color: #00d4ff; text-decoration: none; font-weight: bold;">DheWSIP</a></em><br>
-  </blockquote>
+  <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
+  <h1>DheReckahsTeam</h1>
+  <span style="color: #ff6ac1; font-weight: bold;">Hybrid (Offensive+Defensive) Cybersecurity Organization</span><br>
+  <span style="color: #ffd700; letter-spacing: 3px; font-size: 1.3rem;">LAY THE FOUNDATION OF</span><br>
+  <span style="color: #a5d8ff;">DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)</span>
+ <h3>MOTTO</h3>
+<blockquote align="center" style="font-size: 1.25rem; font-weight: 600; color: #e0e0ff; margin: 2.5rem 0; line-height: 2.2; letter-spacing: 0.5px;">
+  <strong style="font-size: 1.8rem; color: #ffffff; display: block; margin-bottom: 1rem;">
+    We Are Not Group. We Are Generation.
+  </strong><br>
+  We Extradited<em><a href="https://github.com/2FABypass" style="color: #00d4ff;"> 2FABypass</a></em> <br>
+  We Developed<em><a href="https://github.com/2SSDP" style="color: #00d4ff;"> 2SSDP</a></em> <br>
+  We Founded<em><a href="https://github.com/DRHGM" style="color: #00d4ff;"> DRHGM</a></em> <br>
+  We Ensured<em><a href="https://github.com/DheWSIP" style="color: #00d4ff;"> DheWSIP</a></em><br><br>
+</blockquote
 
   <!-- Social & Status Badges -->
   <p style="margin: 3rem 0 1.5rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
