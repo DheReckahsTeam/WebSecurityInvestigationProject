@@ -6,7 +6,7 @@
 <blockquote align="center" style="font-size: 1.25rem; font-weight: 600; color: #e0e0ff; margin: 2.5rem 0; line-height: 2.2; letter-spacing: 0.5px;">
   <strong style="font-size: 1.8rem; color: #ffffff; display: block; margin-bottom: 1rem;">
     We are not a group. We are a generation.
-  </strong>
+  </strong><br>
   We <em><a href="https://www.2fabypass.com/" style="color: #00d4ff;">Extradited 2FABypass</a></em> •<br>
   We <em><a href="https://www.2ssdp.com/" style="color: #00d4ff;">Developed 2SSDP</a></em> •<br>
   We <em><a href="https://www.drhgm.com/" style="color: #00d4ff;">Founded DRHGM</a></em> •<br>
