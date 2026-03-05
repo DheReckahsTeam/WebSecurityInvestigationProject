@@ -193,8 +193,6 @@ Engage through the community portal for webinars, playbooks, ethical mentoring, 
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #5a4acd, transparent); margin: 3rem 0;">
 
-## ⚠️ Operational Security Notice
-
 ⚠️ **IMPORTANT SECURITY & LEGAL NOTICE** ⚠️
 
 This repository and any associated interfaces, tools, scripts, or assets are provided **strictly for educational purposes, security research, and ethical hacking ONLY**.
@@ -272,7 +270,6 @@ This section lists sources mentioning or directly related to **DheReckahsTeam**,
 10. **GitHub - 2FABypass**  
     [https://github.com/2fabypass](https://github.com/2fabypass)
 
-... *(continue with the rest of your references list exactly as you had them)*
 
 <div align="center" style="margin: 5rem 0 3rem; padding: 3rem 1rem; background: linear-gradient(135deg, rgba(20,20,60,0.8), rgba(40,30,90,0.6)); border-radius: 20px; border: 1px solid rgba(100,100,255,0.4); backdrop-filter: blur(8px);">
   <sub style="color: #c0c0ff; font-size: 1.1rem; letter-spacing: 1.2px;">© DheReckahsTeam • Web Security Investigation Project • #DrhgmSince2020 • Hybrid Since 2019</sub>
