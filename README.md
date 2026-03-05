@@ -3,15 +3,30 @@
   <h1>DheReckahsTeam</h1>
   <h4>Motto</h4>
  
-  <blockquote>
-    <strong>We are not a group. We are a generation.</strong><br>
-    <em>We Extradited [2FABypass](https://www.2FABypass.com/)</em><br>
-    <em>We Developed  [2SSDP](https://www.2SSDP.com/)</em><br>
-    <em>We Founded  [DRHGM](https://www.DRHGM.com/)</em><br>
-    <em>We Ensure  [DheWSIP](https://www.DheWSIP.com/)</em><br>
-    Hybrid (Offensive + Defensive) Cybersecurity Collective<br>
-    LayTheFoundationOf | DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)
+<div align="center">
+  <blockquote style="font-family: system-ui, -apple-system, sans-serif; max-width: 700px; margin: 2rem auto; padding: 2rem 1.5rem; border-left: 5px solid #8a2be2; background: linear-gradient(135deg, rgba(10, 10, 30, 0.6), rgba(20, 20, 50, 0.4)); border-radius: 12px; color: #e0e0ff; line-height: 1.7; font-size: 1.1rem; box-shadow: 0 8px 32px rgba(0,0,0,0.5);">
+    <strong style="display: block; font-size: 1.6rem; color: #ffffff; margin-bottom: 1.2rem; letter-spacing: 1px;">
+      We are not a group.<br>We are a generation.
+    </strong>
+
+    <div style="margin: 1.5rem 0; font-style: italic; font-weight: 500; color: #c3c3ff;">
+      <a href="https://www.2fabypass.com/" style="color: #00d4ff; text-decoration: none; border-bottom: 1px dashed #00d4ff; transition: all 0.2s;">We Extradited 2FABypass</a><br>
+      <a href="https://www.2ssdp.com/" style="color: #00d4ff; text-decoration: none; border-bottom: 1px dashed #00d4ff; transition: all 0.2s;">We Developed 2SSDP</a><br>
+      <a href="https://www.drhgm.com/" style="color: #00d4ff; text-decoration: none; border-bottom: 1px dashed #00d4ff; transition: all 0.2s;">We Founded DRHGM</a><br>
+      <a href="https://www.dhewsip.com/" style="color: #00d4ff; text-decoration: none; border-bottom: 1px dashed #00d4ff; transition: all 0.2s;">We Ensure DheWSIP</a>
+    </div>
+
+    <div style="margin-top: 2rem; font-size: 1.15rem; font-weight: 600; letter-spacing: 0.8px; color: #b0b0ff;">
+      DheReckahsTeam<br>
+      <span style="color: #ff6ac1; font-weight: bold;">Hybrid (Offensive + Defensive) Cybersecurity</span><br>
+      <span style="display: block; margin: 0.8rem 0; font-size: 1.25rem; color: #ffd700; letter-spacing: 2px;">
+        LAY THE FOUNDATION OF
+      </span>
+      <span style="color: #a5d8ff; font-weight: bold;">DheReckahsTeam Web Security Investigation Project</span><br>
+      <span style="font-size: 0.95rem; color: #88ccff; opacity: 0.9;">(Dhe.W.S.I.P)</span>
+    </div>
   </blockquote>
+</div>
 
   <!-- Enhanced Badges -->
   <p>
