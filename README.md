@@ -352,16 +352,3 @@ This section lists sources mentioning or directly related to **DheReckahsTeam**,
 <div align="center" style="margin: 6rem 0 4rem; padding: 4rem 2rem; background: linear-gradient(135deg, rgba(20,20,70,0.9), rgba(50,40,110,0.8)); border-radius: 28px; border: 2px solid rgba(100,100,255,0.5); backdrop-filter: blur(20px); box-shadow: 0 25px 80px rgba(0,0,0,0.8);">
   <sub style="color: #d0d0ff; font-size: 1.3rem; letter-spacing: 1.5px; text-shadow: 0 0 10px rgba(255,255,255,0.5);">© DheReckahsTeam • Web Security Investigation Project • #DrhgmSince2020 • Hybrid Since 2019</sub>
 </div>
-
-<style>
-a:hover {
-  color: #ffd700 !important;
-  transform: scale(1.05);
-}
-div:hover {
-  transform: translateY(-5px);
-}
-img:hover {
-  transform: scale(1.02);
-}
-</style>
