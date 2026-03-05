@@ -6,7 +6,7 @@
 
   <p>
     <strong>We are not a group. We are a generation.</strong><br>
-    Hybrid (Offensive + Defensive) Cybersecurity |Lay The Foundation Of |DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)
+    Hybrid (Offensive + Defensive) Cybersecurity |LayTheFoundationOf| DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)
   </p>
 
   <!-- Badges -->
