@@ -171,9 +171,68 @@ Unauthorized probing, scanning, or reverse-engineering of assets may trigger def
 
 ## 📚 References
 
-- EverybodyWiki entry: [DheReckahsTeam](https://en.everybodywiki.com/DheReckahsTeam)
-- U.S. FBI advisories on MFA bypasses (2019–2025)
-- Related media: ZDNet, Bitdefender, NPR, Forbes (discussions on 2FA vulnerabilities)
+This section lists sources mentioning or directly related to **DheReckahsTeam**, its projects (2FABypass, 2SSDP, DRHGM, DheWSIP), or associated entities. Note: Coverage remains limited and largely self-published or community-edited.
+
+1. **Official Website** — DheReckahsTeam main site (hybrid offensive + defensive cybersecurity, Dhe.W.S.I.P lab)  
+   [https://www.dhereckahsteam.com/](https://www.dhereckahsteam.com/)
+
+2. **EverybodyWiki Entry** — DheReckahsTeam profile (user-edited bio, founding date, hybrid mindset, projects)  
+   [https://en.everybodywiki.com/DheReckahsTeam](https://en.everybodywiki.com/DheReckahsTeam)
+
+3. **GitHub Organization** — DheReckahsTeam main profile (motto, project links, "We are not group we are generation")  
+   [https://github.com/DheReckahsTeam](https://github.com/DheReckahsTeam)
+
+4. **2FABypass Official Site** — Extradited project from DheReckahsTeam (2FA vulnerability research & awareness)  
+   [https://www.2fabypass.com/](https://www.2fabypass.com/)
+
+5. **2SSDP Official Site** — Defensive engine developed by DheReckahsTeam (proactive protection, anomaly detection)  
+   [https://www.2ssdp.com/](https://www.2ssdp.com/)
+
+6. **DRHGM Official Site** — Contest platform founded by DheReckahsTeam (ethical hacking challenges since 2020)  
+   [https://www.drhgm.com/](https://www.drhgm.com/)
+
+7. **DheWSIP Official Site** — Core Web Security Investigation Project / lab (umbrella for all initiatives)  
+   [https://www.dhewsip.com/](https://www.dhewsip.com/)
+
+8. **YouTube Channel** — Dhe Reckahs Team (@DheReckahTeam) — videos on motto, project transfers, cybersecurity advancement  
+   [https://www.youtube.com/@DheReckahTeam](https://www.youtube.com/@DheReckahTeam)
+
+9. **LinkedIn Profile** — DheReckahHimSelf (CEO/Founder of DheReckahsTeam)  
+   [https://www.linkedin.com/in/dhereckahhimself](https://www.linkedin.com/in/dhereckahhimself)
+
+10. **GitHub - 2FABypass** — Repository tied to DheReckahsTeam (offensive 2FA research counterpart to 2SSDP)  
+    [https://github.com/2fabypass](https://github.com/2fabypass)
+
+11. **GitHub - DRHGM** — Contest program repo sponsored by DheReckahsTeam  
+    [https://github.com/DRHGM](https://github.com/DRHGM)
+
+12. **EverybodyWiki - 2FABypass** — Page on 2FA bypass techniques (maintained by DheWSIP members)  
+    [https://en.everybodywiki.com/2FABypass](https://en.everybodywiki.com/2FABypass)
+
+13. **YouTube Video** — "DheReckahsTeam Web Security Investigation Project has extradited @TwoFactorAuthenticationBypass"  
+    [https://www.youtube.com/watch?v=3y34do8JPw8](https://www.youtube.com/watch?v=3y34do8JPw8)
+
+14. **Facebook Page** — 2FABypass (extradition project from DheReckahsTeam investigation)  
+    [https://www.facebook.com/61566065212886](https://www.facebook.com/61566065212886)
+
+15. **Telegram Channel** — DheReckahsTeam official channel (hybrid mindset updates)  
+    [https://t.me/dhereckahsteam](https://t.me/dhereckahsteam)
+
+16. **CEO Author, Co-Founder Profile** — Discussion on draft submission attempts for DheReckahsTeam / DheWSIP (notability concerns, declined)  
+    [[https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Articles_for_creation/Help_desk/Archives/2025_November_23]](https://www.linkedin.com/in/dhereckahhimself)[(https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Articles_for_creation/Help_desk/Archives/2025_November_23)](https://www.linkedin.com/in/dhereckahhimself)
+
+17. **X (Twitter) Profile** — DheReckahCoded (lead developer for DheReckahsTeam projects)  
+    [https://x.com/DheReckahCoded](https://x.com/DheReckahCoded)
+
+18. **EverybodyWiki - Related Entry** — Mention in Garuna Ops page (cross-reference to DheReckahsTeam)  
+    [https://en.everybodywiki.com/Garuna_Ops](https://en.everybodywiki.com/Garuna_Ops)
+
+19. **U.S. FBI Advisories** — General guidance on MFA/2FA bypass risks (SIM swapping, social engineering, proxies; 2019–2025) — contextual alignment with 2FABypass research  
+    (Multiple FBI alerts; e.g., see public FBI.gov publications on MFA vulnerabilities)
+
+20. **Related Media Context** — Broader discussions on 2FA bypass techniques (ZDNet, Bitdefender, Forbes articles on MFA flaws; not direct DheReckahsTeam coverage but thematic relevance)  
+    (Search ZDNet/Bitdefender/Forbes for "2FA bypass" or "MFA vulnerabilities" 2020–2025)
+
 
 <div align="center">
   <sub>© DheReckahsTeam • Web Security Investigation Project • #DrhgmSince2020 • Hybrid Since 2019</sub>
