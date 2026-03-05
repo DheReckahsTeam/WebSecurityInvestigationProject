@@ -40,16 +40,63 @@
     <img src="https://img.shields.io/github/forks/DheReckahsTeam?style=social" alt="GitHub Forks">
   </p>
 </div>
+<div align="center">
+  <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
+  <h1>DheReckahsTeam</h1>
+  <span style="color: #ff6ac1; font-weight: bold;">Hybrid (Offensive+Defensive) Cybersecurity Organization</span><br>
+  <span style="color: #ffd700; letter-spacing: 3px; font-size: 1.3rem;">LAY THE FOUNDATION OF</span><br>
+  <span style="color: #a5d8ff;">DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)</span>
+ <h3>MOTTO</h3>
+<blockquote align="center" style="font-size: 1.25rem; font-weight: 600; color: #e0e0ff; margin: 2.5rem 0; line-height: 2.2; letter-spacing: 0.5px;">
+  <strong style="font-size: 1.8rem; color: #ffffff; display: block; margin-bottom: 1rem;">
+    We Are Not Group. We Are Generation.
+  </strong><br>
+  We Extradited<em><a href="https://github.com/2FABypass" style="color: #00d4ff;"> 2FABypass</a></em> <br>
+  We Developed<em><a href="https://github.com/2SSDP" style="color: #00d4ff;"> 2SSDP</a></em> <br>
+  We Founded<em><a href="https://github.com/DRHGM" style="color: #00d4ff;"> DRHGM</a></em> <br>
+  We Ensured<em><a href="https://github.com/DheWSIP" style="color: #00d4ff;"> DheWSIP</a></em><br><br>
+</blockquote
+  <!-- Enhanced Badges -->
+  <p>
+    <a href="https://www.dhereckahsteam.com/">
+      <img src="https://img.shields.io/badge/Website-dhereckahsteam.com-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    </a>
+    <a href="https://github.com/DheReckahsTeam">
+      <img src="https://img.shields.io/badge/GitHub-DheReckahsTeam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://t.me/dhereckahsteam">
+      <img src="https://img.shields.io/badge/Telegram-@dhereckahsteam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="https://www.youtube.com/@DheReckahTeam">
+      <img src="https://img.shields.io/badge/YouTube-@DheReckahTeam-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Founded-January%2025,%202019-dc143c?style=flat-square&logo=calendar" alt="Founded">
+    <img src="https://img.shields.io/badge/Core%20Members-14-32cd32?style=flat-square&logo=users" alt="Members">
+    <img src="https://img.shields.io/badge/Mode-Hybrid%20(Offensive+%2B%20Defensive)-8a2be2?style=flat-square&logo=shield" alt="Hybrid Mode">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/github/stars/DheReckahsTeam?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/forks/DheReckahsTeam?style=social" alt="GitHub Forks">
+  </p>
+</div>
+
 ## Table of Contents
-- [🌐 Overview](#-overview)
-- [📜 History & Timeline](#-history--timeline)
-- [🔑 Core Projects](#-core-projects)
-- [🛡️ Philosophy: The Hybrid Mindset](#-philosophy-the-hybrid-mindset)
-- [👥 Core Team Structure (14 Members)](#-core-team-structure-14-members)
-- [📊 Impact & Alignment](#-impact--alignment)
-- [🔗 Connect & Engage](#-connect--engage)
-- [⚠️ Operational Security Notice](#️-operational-security-notice)
-- [📚 References](#-references)
+
+<div style="overflow-x: auto; white-space: nowrap; max-width: 100%; padding: 12px 0; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa; margin: 16px 0 24px;">
+  <ul style="list-style: none; padding: 0 16px; margin: 0; display: flex; flex-wrap: nowrap; gap: 24px; font-size: 14px; font-weight: 500; align-items: center;">
+    <li><a href="#-overview">🌐 Overview</a></li>
+    <li><a href="#-history--timeline">📜 History & Timeline</a></li>
+    <li><a href="#-core-projects">🔑 Core Projects</a></li>
+    <li><a href="#-philosophy-the-hybrid-mindset">🛡️ Philosophy: The Hybrid Mindset</a></li>
+    <li><a href="#-core-team-structure-14-members">👥 Core Team Structure (14 Members)</a></li>
+    <li><a href="#-impact--alignment">📊 Impact & Alignment</a></li>
+    <li><a href="#-connect--engage">🔗 Connect & Engage</a></li>
+    <li><a href="#️-operational-security-notice">⚠️ Operational Security Notice</a></li>
+    <li><a href="#-references">📚 References</a></li>
+  </ul>
+</div>
+
 ## 🌐 Overview
 **DheReckahsTeam** is a decentralized cybersecurity collective specializing in hybrid (offensive and defensive) web security research. Founded on January 25, 2019 by DheReckahHimSelf (also known as DheReckahsHimSelves) and co-founder Dhecybersoldier (reconciled in 2025), the organization operates under the motto "We are not a group. We are a generation." It emphasizes ethical innovation through the Hybrid Mindset, integrating red-team offensive simulations—such as man-in-the-middle (MITM) attacks and two-factor authentication/multi-factor authentication (2FA/MFA) bypass research—with blue-team defensive strategies, including proactive threat engines, anomaly detection, and mitigation playbooks.
 The collective's flagship initiative is the **DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P / DheWSIP)**, an advanced hybrid lab established in 2024–2025. DheWSIP serves as a live environment for systematic attack-surface mapping, automated forensic capture, reproducible exploit replay, and real-time transitions from offensive discoveries to defensive implementations. Operating within the Hybrid (Offensive+Defensive) Cybersecurity Division, it functions as a community portal for ethical researchers, fostering collaboration and knowledge sharing.
