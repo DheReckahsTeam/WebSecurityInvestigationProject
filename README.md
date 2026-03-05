@@ -8,9 +8,9 @@
     We are not a group. We are a generation.
   </strong><br>
   We Extradited<em><a href="https://github.com/2FABypass" style="color: #00d4ff;"> 2FABypass</a></em> <br>
-  We Developed<em><a href="https://github.com/2FABypass" style="color: #00d4ff;"> 2SSDP</a></em> <br>
-  We Founded<em><a href="https://github.com/2FABypass" style="color: #00d4ff;"> DRHGM</a></em> <br>
-  We Ensured<em><a href="https://github.com/2FABypass" style="color: #00d4ff;"> DheWSIP</a></em><br><br>
+  We Developed<em><a href="https://github.com/2SSDP" style="color: #00d4ff;"> 2SSDP</a></em> <br>
+  We Founded<em><a href="https://github.com/DRHGM" style="color: #00d4ff;"> DRHGM</a></em> <br>
+  We Ensured<em><a href="https://github.com/DheWSIP" style="color: #00d4ff;"> DheWSIP</a></em><br><br>
   <span style="color: #ff6ac1; font-weight: bold;">DheReckahsTeam Hybrid (Offensive+Defensive) Cybersecurity</span><br>
   <span style="color: #ffd700; letter-spacing: 3px; font-size: 1.3rem;">LAY THE FOUNDATION OF</span><br>
   <span style="color: #a5d8ff;">DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)</span>
