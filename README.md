@@ -78,7 +78,7 @@ Key milestones include:
 
 The collective's history reflects a commitment to ethical practices, with projects evolving from offensive exposures to defensive assurances.
 
-## 🔑 Core Projects (DheReckahsTeam Web Security Investigation Project)
+## 🔑 Core Projects (DheReckahsTeam Web Security Investigation Project) Dhe.W.S.I.P
 
 DheReckahsTeam's initiatives form an interconnected ecosystem under the Hybrid Mindset, with each project contributing to the others in a cyclical manner: exposure, protection, validation, and demonstration.
 
