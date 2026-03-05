@@ -8,7 +8,7 @@
     We are not a group. We are a generation.
   </strong><br>
   We Extradited <em><a href="https://www.2fabypass.com/" style="color: #00d4ff;"> 2FABypass</a></em> <br>
-  We Developed <em><a href="https://www.2ssdp.com/" style="color: #00d4ff;">  2SSDP</a></em> <br>
+  We Developed <em><a href="https://www.2ssdp.com/" style="color: #00d4ff;"> 2SSDP</a></em> <br>
   We Founded <em><a href="https://www.drhgm.com/" style="color: #00d4ff;"> DRHGM</a></em> <br>
   We Ensured <em><a href="https://www.dhewsip.com/" style="color: #00d4ff;"> DheWSIP</a></em><br><br>
   <span style="color: #ff6ac1; font-weight: bold;">DheReckahsTeam Hybrid (Offensive+Defensive) Cybersecurity</span><br>
