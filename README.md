@@ -5,7 +5,7 @@
   <span style="color: #ffd700; letter-spacing: 3px; font-size: 1.3rem;">LAY THE FOUNDATION OF</span><br>
   <span style="color: #a5d8ff;">DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)</span>
 
- <h4>Motto</h4>
+ <h4>MOTTO</h4>
 <blockquote align="center" style="font-size: 1.25rem; font-weight: 600; color: #e0e0ff; margin: 2.5rem 0; line-height: 2.2; letter-spacing: 0.5px;">
   <strong style="font-size: 1.8rem; color: #ffffff; display: block; margin-bottom: 1rem;">
     We Are Not Group. We Are Generation.
