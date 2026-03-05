@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
-
-  <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
   <h1>DheReckahsTeam</h1>
   <span style="color: #ff6ac1; font-weight: bold;">Hybrid (Offensive+Defensive) Cybersecurity Organization</span><br>
   <span style="color: #ffd700; letter-spacing: 3px; font-size: 1.3rem;">LAY THE FOUNDATION OF</span><br>
