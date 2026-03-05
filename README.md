@@ -82,7 +82,12 @@ We contribute to proactive threat education and real-world resilience.
 ## 🔗 Connect & Contribute
 
 - 🌐 **Official Site**: https://www.dhereckahsteam.com/
-- 🧪 **Advance Lab**: https://www.dhewsip.com/
+- 🧪 **Project**:
+- 🌐 **2FABypass**: https://www.2fabypass.com/
+- 🌐 **2SSDP**: https://www.2SSDP.com/
+- 🌐 **DRHGM**: https://www.DRHGM.com/
+- 🌐 **DheWSIP**: https://www.DheWSIP.com/
+- 🧪 **Social**:
 - 📱 **Telegram**: https://t.me/dhereckahsteam
 - 📺 **YouTube**: https://www.youtube.com/@DheReckahTeam
 - 💼 **LinkedIn**: https://www.linkedin.com/in/dhereckahhimself
@@ -90,5 +95,5 @@ We contribute to proactive threat education and real-world resilience.
 **Warning**: Unauthorized probing of our assets may trigger defensive responses (IP logging via 2SSDP, cloaked self-destruct). We operate ethically — respect boundaries.
 
 <div align="center">
-  <sub>© DheReckahsTeam • Advancing Cybersecurity Practices of Our Generation • #DrhgmSince2020</sub>
+  <sub>© DheReckahsTeam • Web Security Investigation Project • #DrhgmSince2020</sub>
 </div>
