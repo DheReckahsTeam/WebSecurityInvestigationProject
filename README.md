@@ -1,47 +1,5 @@
 <div align="center">
   <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
-
-  <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
-  <h1>DheReckahsTeam</h1>
-  <span style="color: #ff6ac1; font-weight: bold;">Hybrid (Offensive+Defensive) Cybersecurity Organization</span><br>
-  <span style="color: #ffd700; letter-spacing: 3px; font-size: 1.3rem;">LAY THE FOUNDATION OF</span><br>
-  <span style="color: #a5d8ff;">DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)</span>
- <h3>MOTTO</h3>
-<blockquote align="center" style="font-size: 1.25rem; font-weight: 600; color: #e0e0ff; margin: 2.5rem 0; line-height: 2.2; letter-spacing: 0.5px;">
-  <strong style="font-size: 1.8rem; color: #ffffff; display: block; margin-bottom: 1rem;">
-    We Are Not Group. We Are Generation.
-  </strong><br>
-  We Extradited<em><a href="https://github.com/2FABypass" style="color: #00d4ff;"> 2FABypass</a></em> <br>
-  We Developed<em><a href="https://github.com/2SSDP" style="color: #00d4ff;"> 2SSDP</a></em> <br>
-  We Founded<em><a href="https://github.com/DRHGM" style="color: #00d4ff;"> DRHGM</a></em> <br>
-  We Ensured<em><a href="https://github.com/DheWSIP" style="color: #00d4ff;"> DheWSIP</a></em><br><br>
-</blockquote
-  <!-- Enhanced Badges -->
-  <p>
-    <a href="https://www.dhereckahsteam.com/">
-      <img src="https://img.shields.io/badge/Website-dhereckahsteam.com-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-    </a>
-    <a href="https://github.com/DheReckahsTeam">
-      <img src="https://img.shields.io/badge/GitHub-DheReckahsTeam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://t.me/dhereckahsteam">
-      <img src="https://img.shields.io/badge/Telegram-@dhereckahsteam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="https://www.youtube.com/@DheReckahTeam">
-      <img src="https://img.shields.io/badge/YouTube-@DheReckahTeam-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Founded-January%2025,%202019-dc143c?style=flat-square&logo=calendar" alt="Founded">
-    <img src="https://img.shields.io/badge/Core%20Members-14-32cd32?style=flat-square&logo=users" alt="Members">
-    <img src="https://img.shields.io/badge/Mode-Hybrid%20(Offensive+%2B%20Defensive)-8a2be2?style=flat-square&logo=shield" alt="Hybrid Mode">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
-    <img src="https://img.shields.io/github/stars/DheReckahsTeam?style=social" alt="GitHub Stars">
-    <img src="https://img.shields.io/github/forks/DheReckahsTeam?style=social" alt="GitHub Forks">
-  </p>
-</div>
-<div align="center">
-  <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
   <h1>DheReckahsTeam</h1>
   <span style="color: #ff6ac1; font-weight: bold;">Hybrid (Offensive+Defensive) Cybersecurity Organization</span><br>
   <span style="color: #ffd700; letter-spacing: 3px; font-size: 1.3rem;">LAY THE FOUNDATION OF</span><br>
