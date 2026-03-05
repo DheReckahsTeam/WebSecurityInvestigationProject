@@ -163,10 +163,47 @@ The organization continues to expand its influence in web security resilience.
 - 🛠️ **GitHub (Developer)**: https://github.com/DheReckahCoded
 
 Engage through the community portal for webinars, playbooks, ethical mentoring, and collaboration. Contributions are welcome under open-source guidelines.
+# DheReckahsTeam Web Security Investigation Project
 
-## ⚠️ Operational Security Notice
+⚠️ **IMPORTANT SECURITY & LEGAL NOTICE** ⚠️
 
-Unauthorized probing, scanning, or reverse-engineering of assets may trigger defensive responses (e.g., 2SSDP IP logging, cloaked self-destruct). Operations are strictly ethical—respect boundaries and collaborate via official channels. Tools are for security research and ethical penetration testing only.
+This repository and any associated interfaces, tools, scripts, or assets are provided **strictly for educational purposes, security research, and ethical hacking ONLY**.
+
+### This is NOT malware  
+This project is part of the **DheReckahsTeam Web Security Investigation Project** — a controlled, research-oriented initiative focused on understanding modern web defense mechanisms, evasion detection, and red-team/blue-team interactions.
+
+### Defensive Mechanisms
+The following protective measures are **actively deployed**:
+
+- Unauthorized inspection, reverse engineering, deobfuscation, or source-code probing **will be detected**.
+- Sensitive system assets are **cloaked** and configured with **automatic self-destruct** behavior to prevent unauthorized capture, replication, or analysis.
+- All access attempts are logged.
+- Your IP address, user-agent, timestamps, and behavior fingerprint **are transmitted** to our Threat Autonomous Proactive Engine (2SSDP).
+- Repeated or aggressive intrusion attempts will result in:
+  - Immediate enforced access bans
+  - Network-level blacklisting
+  - Potential reporting to relevant abuse channels
+
+### Authorized Access Only
+If you are a legitimate researcher, student, security professional, or collaborator and wish to access or discuss this project:
+
+- **DO NOT** attempt to force entry, bypass protections, or probe aggressively.
+- Contact the DheReckahsTeam **only through official channels** (listed in the organization profile or pinned contact method).
+
+### Ethical & Legal Disclaimer
+This repository is intended **solely for educational purposes and authorized security testing**.
+
+- We **do not** condone, support, or encourage any malicious, illegal, or unauthorized use of the techniques, code, or information contained here.
+- Any testing MUST be performed **only on systems you own or have explicit written permission** to test.
+- Unauthorized use of these techniques against any system without consent is illegal and may result in criminal prosecution.
+
+**The authors and DheReckahsTeam are not responsible for any misuse, damage, or legal consequences** arising from the use (or misuse) of this material.
+
+By accessing, cloning, or interacting with this repository, you acknowledge that you have read, understood, and agree to comply with the above terms.
+
+This system operates with precision.  
+It does not tolerate exploitation.
+
 
 ## 📚 References
 
