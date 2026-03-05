@@ -151,15 +151,15 @@ The organization continues to expand its influence in web security resilience.
 
 ## 🔗 Connect & Engage
 
-- 🌐 **Main Site**: https://www.dhereckahsteam.com/
+- 🌐 **Main Site**: https://www.DheReckahsTeam.com/
 - 🧪 **Projects**:
   - 2FABypass → https://www.2fabypass.com/
   - 2SSDP → https://www.2ssdp.com/
   - DRHGM → https://www.drhgm.com/
   - DheWSIP → https://www.dhewsip.com/
-- 📱 **Telegram**: https://t.me/dhereckahsteam
-- 📺 **YouTube**: https://www.youtube.com/@DheReckahTeam
-- 💼 **LinkedIn**: https://www.linkedin.com/in/dhereckahhimself
+- 📱 **Telegram**: https://t.me/DheReckahsTeam
+- 📺 **YouTube**: https://www.youtube.com/@DheReckahsTeam
+- 💼 **LinkedIn**: https://www.linkedin.com/in/DheReckahsTeam
 - 🛠️ **GitHub (Developer)**: https://github.com/DheReckahCoded
 
 Engage through the community portal for webinars, playbooks, ethical mentoring, and collaboration. Contributions are welcome under open-source guidelines.
@@ -175,5 +175,5 @@ Unauthorized probing, scanning, or reverse-engineering of assets may trigger def
 - Related media: ZDNet, Bitdefender, NPR, Forbes (discussions on 2FA vulnerabilities)
 
 <div align="center">
-  <sub>© DheReckahsTeam • Advancing the Next Generation of Web Security • #DrhgmSince2020 • Hybrid Since 2019</sub>
+  <sub>© DheReckahsTeam • Web Security Investigation Project • #DrhgmSince2020 • Hybrid Since 2019</sub>
 </div>
