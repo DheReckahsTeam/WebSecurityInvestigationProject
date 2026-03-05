@@ -1,99 +1,117 @@
 <div align="center">
-
-  <img src="https://avatars.githubusercontent.com/u/217182461?v=4" alt="DheReckahsTeam Logo" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
-
+  <img src="https://avatars.githubusercontent.com/u/217182461?v=4" alt="DheReckahsTeam Logo" width="140" height="140" style="border-radius: 50%; border: 4px solid #0d1117; margin: 20px 0;">
+  
   <h1>DheReckahsTeam</h1>
-
-  <p>
+  
+  <blockquote>
     <strong>We are not a group. We are a generation.</strong><br>
-    Hybrid (Offensive + Defensive) Cybersecurity |LayTheFoundationOf| DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)
-  </p>
+    Hybrid (Offensive + Defensive) Cybersecurity Collective<br>
+    LayTheFoundationOf | DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)
+  </blockquote>
 
-  <!-- Badges -->
+  <!-- Enhanced Badges -->
   <p>
     <a href="https://www.dhereckahsteam.com/">
-      <img src="https://img.shields.io/badge/Website-dhereckahsteam.com-blue?style=for-the-badge&logo=google-chrome" alt="Website">
+      <img src="https://img.shields.io/badge/Website-dhereckahsteam.com-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
     </a>
     <a href="https://github.com/DheReckahsTeam">
-      <img src="https://img.shields.io/badge/GitHub-DheReckahsTeam-black?style=for-the-badge&logo=github" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-DheReckahsTeam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://t.me/dhereckahsteam">
-      <img src="https://img.shields.io/badge/Telegram-@dhereckahsteam-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+      <img src="https://img.shields.io/badge/Telegram-@dhereckahsteam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
     <a href="https://www.youtube.com/@DheReckahTeam">
-      <img src="https://img.shields.io/badge/YouTube-@DheReckahTeam-red?style=for-the-badge&logo=youtube" alt="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-@DheReckahTeam-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Founded-January%2025%2C%202019-red?style=flat-square" alt="Founded">
-    <img src="https://img.shields.io/badge/Members-14-success?style=flat-square" alt="Members">
-    <img src="https://img.shields.io/badge/Mode-Hybrid%20%28Offensive%20%2B%20Defensive%29-purple?style=flat-square" alt="Hybrid Mode">
+    <img src="https://img.shields.io/badge/Founded-January%2025,%202019-dc143c?style=flat-square&logo=calendar" alt="Founded">
+    <img src="https://img.shields.io/badge/Core%20Members-14-32cd32?style=flat-square&logo=users" alt="Members">
+    <img src="https://img.shields.io/badge/Mode-Hybrid%20(Offensive+%2B%20Defensive)-8a2be2?style=flat-square&logo=shield" alt="Hybrid Mode">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
   </p>
-
 </div>
 
 ## 🌐 Overview
 
-**DheReckahsTeam** is a decentralized cybersecurity collective founded on January 25, 2019, by **DheReckahHimSelf** (CEO/Founder) and co-founder **Dhecybersoldier**. We operate under the **Hybrid Mindset** — seamlessly integrating offensive vulnerability research (red teaming, ethical simulations like MITM & 2FA testing) with defensive hardening (blue teaming, proactive threat engines, anomaly detection).
+**DheReckahsTeam** is a decentralized, elite cybersecurity collective founded on **January 25, 2019** by visionary leader **DheReckahHimSelf** (a.k.a. DheReckahsHimSelves) and co-founder **Dhecybersoldier** (reconciled 2025). We embody the **Hybrid Mindset** — fusing red-team offensive simulations (MITM, 2FA/MFA bypass research, adversary emulation) with blue-team defensive engineering (proactive threat engines, anomaly detection, mitigation playbooks) to forge next-generation web resilience.
 
-Our flagship initiative is the **DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P / DheWSIP)** — an advanced lab demonstrating real-time hybrid transitions, exposing flaws, developing countermeasures, rewarding discoveries, and educating the next generation of security practitioners.
+Our flagship is the **DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P / DheWSIP)** — a live, advance hybrid lab for systematic attack-surface mapping, automated forensics, reproducible exploit replay, and real-time offensive-to-defensive transitions.
 
-> "We are not a group. We are a generation."  
+> "We are not a group. We are a generation."<br>
 > We **Extradited** @2FABypass • We **Developed** @2SSDP • We **Founded** @DRHGM • We **Ensure** @DheWSIP
 
-## 🔑 Key Projects
+## 🔑 Core Projects
 
-| Project       | Description                                                                 | Type          | Launch/Status       | Links                                                                 |
-|---------------|-----------------------------------------------------------------------------|---------------|---------------------|-----------------------------------------------------------------------|
-| **2FABypass** | Ethical tool & research exposing 2FA/MFA vulnerabilities (MITM simulations, social engineering awareness). Promotes stronger authentication practices. | Offensive     | 2020–2021 (Extradited) | [Website](https://www.2fabypass.com/) • [GitHub](https://github.com/2fabypass) |
-| **2SSDP**     | Autonomous Proactive Defensive Engine (Self-Sign-Deploy-Protection). Threat education, signature-based protection, community modules. | Defensive     | 2024–2025 (Developed) | [Website](https://www.2ssdp.com/) |
-| **DRHGM**     | Dhe Reckahs Hackers Generation Msg — Ethical hacking contest/challenge platform. Rewards real-world discoveries and skill-building. | Community/Contests | Since 2020 (Founded) | [Website](https://www.drhgm.com/) |
-| **DheWSIP**   | Core Web Security Investigation Project. Hybrid lab showcasing offensive-to-defensive transitions, live perimeter monitoring, and advanced threat research. | Umbrella / Lab | 2024–2025 (Ensured) | [Website](https://www.dhewsip.com/) |
+| Project              | Description                                                                                          | Type       | Status / Launch     | Key Links                                                                 |
+|----------------------|------------------------------------------------------------------------------------------------------|------------|---------------------|---------------------------------------------------------------------------|
+| **2FABypass**       | Ethical research & demonstration platform for multi-vector 2FA/MFA bypass analysis (MITM simulations, social engineering vectors). Focuses on awareness, penetration testing education, and defensive countermeasures — **not for malicious exploitation**. | Offensive | 2020–2021 (Extradited) | [Website](https://www.2fabypass.com/) • [GitHub](https://github.com/2fabypass) |
+| **2SSDP**           | Autonomous Proactive Defensive Engine (2FABypass Signature of a Spectacle Defend Practice). Delivers service discovery, protocol analysis, signature-based protection, AI anomaly detection, MFA monitoring, and community threat modules to shrink adversary attack surfaces. | Defensive  | 2024–2025 (Developed) | [Website](https://www.2ssdp.com/)                                        |
+| **DRHGM**           | Dhe Reckahs Hackers Generation Msg — Modular ethical hacking contest & challenge platform. Provides adversary-emulation pipelines, privacy-first workflows, replayable incident artifacts, and rewards for real-world skill demonstrations. | Community / Contests | Since 2020 (Founded) | [Website](https://www.drhgm.com/)                                        |
+| **DheWSIP**         | Core Web Security Investigation Project. Advanced lab for web attack-surface analysis, automated forensic capture, exploit replay, mitigation playbook creation, and hybrid mode demonstrations (expanding to mobile & Web3). | Umbrella / Lab | 2024–2025 (Ensured) | [Website](https://www.dhewsip.com/)                                      |
 
-All projects feed into each other: expose → fix → reward → demonstrate.
+**Cycle**: Expose vulnerabilities → Engineer defenses → Reward discovery → Demonstrate resilience.
 
 ## 🛡️ Philosophy: The Hybrid Mindset
 
-We believe true resilience comes from **continuous feedback loops** between attack simulation and defense engineering.
+True digital resilience emerges from **closed-loop feedback** between simulated aggression and hardened defense.
 
-- **Offensive Phase**: Ethical testing (e.g., 2FA bypass simulations aligned with FBI advisories on SIM swapping, proxies, social engineering).
-- **Defensive Phase**: Build autonomous protections (e.g., 2SSDP anomaly detection, IP logging, cloaked asset self-destruct).
-- **Outcome**: Stronger global web security through awareness, tools, and community intelligence.
+- **Offensive Phase** — Ethical red-teaming aligned with FBI advisories (SIM swapping, proxy abuse, social engineering, MFA circumvention).
+- **Defensive Phase** — Autonomous protections (anomaly engines, IP logging, cloaked asset self-destruct, network posture hardening).
+- **Outcome** — Proactive global security evolution through education, open tools (where ethical), and community intelligence.
 
-We contrast with traditional groups by prioritizing **ethical innovation**, open-source sharing (where appropriate), and education over disruption.
+We reject disruption for its own sake — our focus is **ethical innovation** and generational advancement.
 
-## 👥 Structure & Membership
+## 👥 Core Team (14 Members)
 
-Decentralized • Remote • Coordinated via X, Telegram, GitHub.
+<details>
+<summary>Click to view the full roster — Decentralized • Remote • Elite</summary>
 
-- **CEO & Founder**: DheReckahHimSelf (DheReckahsHimSelves) — Hybrid expert, balanced aggression advocate.
-- **Co-founder (Reconciled 2025)**: Dhecybersoldier — Cyber warfare specialist.
-- **Total Members**: 14 (roles include API reviewers, coders, threat analysts, infrastructure, content creators, etc.).
+| #  | Handle                  | Role / Title                              | Primary Responsibilities                                                                 |
+|----|-------------------------|-------------------------------------------|------------------------------------------------------------------------------------------|
+| 1  | **DheReckahHimSelf**   | CEO, Founder, Visionary Leader (a.k.a. DheReckahsHimSelves) | Executive oversight, strategic direction, initiative approval, threat landscape mastery. |
+| 2  | **DheReckahSense**     | Conceptualizer & Fisher                   | Project ideation, reconnaissance, threat intelligence, vulnerability discovery.        |
+| 3  | **DheReckahCoded**     | Lead Developer & Document Author          | Core tool development (e.g., 2FABypass, 2SSDP), technical documentation & architecture. |
+| 4  | **DheReckahApies**     | Licensing Officer & API Reviewer          | Software licensing, legal/ethical compliance, API integration & release management.     |
+| 5  | **DheReckahServer**    | Hosting & Infrastructure Lead             | Server admin, network ops, OpSec for project hosting & perimeter defense.               |
+| 6  | **DheReckahOwner**     | Admin / Operations                        | Daily operations, access control, session management.                                   |
+| 7  | **DheReckahSenser**    | Tracker / Monitor                         | Continuous threat monitoring, vulnerability tracking, alert generation.                 |
+| 8  | **DheReckahTools**     | Cracker / Reverse Engineer                | System analysis, reverse engineering, tool prototyping.                                 |
+| 9  | **DheReckahDator**     | Carder / Financial Systems Simulator      | Defensive simulation of carding/financial attacks, banking system research.             |
+| 10 | **DheReckahAdsense**   | Blogger / Content Strategist              | Blog management, financial intel reporting, external content creation.                  |
+| 11 | **DheReckahCinema**    | Editor / Visual Media Producer            | Video editing, animation, educational media production.                                 |
+| 12 | **DheReckahSound**     | Audio Specialist                          | Music & sound design for briefings, demos, and media assets.                            |
+| 13 | **DheReckahTeam**      | Generalist / Coordinator                  | Cross-functional support, team coordination, miscellaneous functions.                   |
+| 14 | **Dhecybersoldier**    | Co-founder (Ex-Author, Reconciled 2025)   | Cyber warfare specialization, historical authorship contributions.                      |
 
-## 📊 Notability & Impact
+</details>
 
-Our work on 2FA vulnerabilities aligns with major advisories:
-- FBI warnings on MFA bypass (SIM swapping, proxies, social engineering — 2019–2025).
-- Emphasis on phishing-resistant methods (app-based, hardware keys).
+Coordinated remotely via GitHub, X, Telegram. All members operate under strict ethical guidelines.
 
-We contribute to proactive threat education and real-world resilience.
+## 📊 Impact & Alignment
 
-## 🔗 Connect & Contribute
+Our research mirrors & extends major advisories:
+- FBI alerts on MFA bypass vectors (SIM swap, social engineering, technical attacks — 2019–2025).
+- Promotion of phishing-resistant auth (TOTP, FIDO2 hardware keys).
 
-- 🌐 **Official Site**: https://www.dhereckahsteam.com/
-- 🧪 **Project**:
-- 🌐 **2FABypass**: https://www.2fabypass.com/
-- 🌐 **2SSDP**: https://www.2SSDP.com/
-- 🌐 **DRHGM**: https://www.DRHGM.com/
-- 🌐 **DheWSIP**: https://www.DheWSIP.com/
-- 🧪 **Social**:
+We drive awareness, tools, and contests (#DrhgmSince2020) to build real-world resilience.
+
+## 🔗 Connect & Engage
+
+- 🌐 **Main Site**: https://www.dhereckahsteam.com/
+- 🧪 **Projects**:
+  - 2FABypass → https://www.2fabypass.com/
+  - 2SSDP → https://www.2ssdp.com/
+  - DRHGM → https://www.drhgm.com/
+  - DheWSIP → https://www.dhewsip.com/
 - 📱 **Telegram**: https://t.me/dhereckahsteam
 - 📺 **YouTube**: https://www.youtube.com/@DheReckahTeam
 - 💼 **LinkedIn**: https://www.linkedin.com/in/dhereckahhimself
 
-**Warning**: Unauthorized probing of our assets may trigger defensive responses (IP logging via 2SSDP, cloaked self-destruct). We operate ethically — respect boundaries.
+> **⚠️ Operational Security Notice**  
+> Unauthorized probing, scanning, or reverse-engineering of our assets may activate defensive countermeasures (2SSDP IP logging, cloaked self-destruct sequences). All operations are ethical — respect boundaries & request collaboration via official channels.
 
 <div align="center">
-  <sub>© DheReckahsTeam • Web Security Investigation Project • #DrhgmSince2020</sub>
+  <sub>© DheReckahsTeam • Advancing the Next Generation of Web Security • #DrhgmSince2020 • Hybrid Since 2019</sub>
 </div>
