@@ -237,37 +237,72 @@ It does not tolerate exploitation.
 
 ## 📚 References
 
+<div style="background: rgba(255,255,255,0.05); padding: 2rem; border-radius: 16px; box-shadow: 0 10px 40px rgba(0,0,0,0.5); transition: transform 0.4s;">
 This section lists sources mentioning or directly related to **DheReckahsTeam**, its projects (2FABypass, 2SSDP, DRHGM, DheWSIP), or associated entities. Note: Coverage remains limited and largely self-published or community-edited.
 
-1. **Official Website** — DheReckahsTeam main site  
+1. **Official Website** — DheReckahsTeam main site (hybrid offensive + defensive cybersecurity, Dhe.W.S.I.P lab)  
    [https://www.dhereckahsteam.com/](https://www.dhereckahsteam.com/)
 
-2. **EverybodyWiki Entry** — DheReckahsTeam profile  
+2. **EverybodyWiki Entry** — DheReckahsTeam profile (user-edited bio, founding date, hybrid mindset, projects)  
    [https://en.everybodywiki.com/DheReckahsTeam](https://en.everybodywiki.com/DheReckahsTeam)
 
-3. **GitHub Organization**  
+3. **GitHub Organization** — DheReckahsTeam main profile (motto, project links, "We are not group we are generation")  
    [https://github.com/DheReckahsTeam](https://github.com/DheReckahsTeam)
 
-4. **2FABypass Official Site**  
+4. **2FABypass Official Site** — Extradited project from DheReckahsTeam (2FA vulnerability research & awareness)  
    [https://www.2fabypass.com/](https://www.2fabypass.com/)
 
-5. **2SSDP Official Site**  
+5. **2SSDP Official Site** — Defensive engine developed by DheReckahsTeam (proactive protection, anomaly detection)  
    [https://www.2ssdp.com/](https://www.2ssdp.com/)
 
-6. **DRHGM Official Site**  
+6. **DRHGM Official Site** — Contest platform founded by DheReckahsTeam (ethical hacking challenges since 2020)  
    [https://www.drhgm.com/](https://www.drhgm.com/)
 
-7. **DheWSIP Official Site**  
+7. **DheWSIP Official Site** — Core Web Security Investigation Project / lab (umbrella for all initiatives)  
    [https://www.dhewsip.com/](https://www.dhewsip.com/)
 
-8. **YouTube Channel**  
+8. **YouTube Channel** — Dhe Reckahs Team (@DheReckahTeam) — videos on motto, project transfers, cybersecurity advancement  
    [https://www.youtube.com/@DheReckahTeam](https://www.youtube.com/@DheReckahTeam)
 
-9. **LinkedIn Profile** — DheReckahHimSelf  
+9. **LinkedIn Profile** — DheReckahHimSelf (CEO/Founder of DheReckahsTeam)  
    [https://www.linkedin.com/in/dhereckahhimself](https://www.linkedin.com/in/dhereckahhimself)
 
-10. **GitHub - 2FABypass**  
+10. **GitHub - 2FABypass** — Repository tied to DheReckahsTeam (offensive 2FA research counterpart to 2SSDP)  
     [https://github.com/2fabypass](https://github.com/2fabypass)
+
+11. **GitHub - DRHGM** — Contest program repo sponsored by DheReckahsTeam  
+    [https://github.com/DRHGM](https://github.com/DRHGM)
+
+12. **EverybodyWiki - 2FABypass** — Page on 2FA bypass techniques (maintained by DheWSIP members)  
+    [https://en.everybodywiki.com/2FABypass](https://en.everybodywiki.com/2FABypass)
+
+13. **YouTube Video** — "DheReckahsTeam Web Security Investigation Project has extradited @TwoFactorAuthenticationBypass"  
+    [https://www.youtube.com/watch?v=3y34do8JPw8](https://www.youtube.com/watch?v=3y34do8JPw8)
+
+14. **Facebook Page** — 2FABypass (extradition project from DheReckahsTeam investigation)  
+    [https://www.facebook.com/61566065212886](https://www.facebook.com/61566065212886)
+
+15. **Telegram Channel** — DheReckahsTeam official channel (hybrid mindset updates)  
+    [https://t.me/dhereckahsteam](https://t.me/dhereckahsteam)
+
+16. **ExAuthor,CEO And Co-Founder's Profile** — DheReckahHimSelf as the CEO / Dhecybersoldier as the ExAuthor (Reconciled in 2025)  
+    [https://www.linkedin.com/in/dhereckahhimself](https://www.linkedin.com/in/dhereckahhimself)|  
+    [https://www.x.com/dhecybersoldier/](https://www.x.com/dhecybersoldier/)
+
+18. **X (Twitter) Profile** — DheReckahCoded (lead developer for DheReckahsTeam projects)  
+    [https://x.com/DheReckahCoded](https://x.com/DheReckahCoded)
+
+19. **EverybodyWiki - Related Entry** — Mention in Garuna Ops page (cross-reference to DheReckahsTeam)  
+    [https://en.everybodywiki.com/Garuna_Ops](https://en.everybodywiki.com/Garuna_Ops)
+
+20. **U.S. FBI Advisories** — General guidance on MFA/2FA bypass risks (SIM swapping, social engineering, proxies; 2019–2025) — contextual alignment with 2FABypass research  
+    (Multiple FBI alerts; e.g., see public FBI.gov publications on MFA vulnerabilities)
+
+21. **Related Media Context** — Broader discussions on 2FA bypass techniques (ZDNet, Bitdefender, Forbes articles on MFA flaws; not direct DheReckahsTeam coverage but thematic relevance)  
+    (Search ZDNet/Bitdefender/Forbes for "2FA bypass" or "MFA vulnerabilities" 2020–2025)
+</div>
+
+[↑ Back to Top](#dhereckahsteam)
 
 
 <div align="center" style="margin: 5rem 0 3rem; padding: 3rem 1rem; background: linear-gradient(135deg, rgba(20,20,60,0.8), rgba(40,30,90,0.6)); border-radius: 20px; border: 1px solid rgba(100,100,255,0.4); backdrop-filter: blur(8px);">
