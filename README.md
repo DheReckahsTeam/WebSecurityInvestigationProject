@@ -218,7 +218,7 @@ This section lists sources mentioning or directly related to **DheReckahsTeam**,
 15. **Telegram Channel** — DheReckahsTeam official channel (hybrid mindset updates)  
     [https://t.me/dhereckahsteam](https://t.me/dhereckahsteam)
 
-16. **ExAuthor,CEO AND Co-Founder Profile** — DheReckahHimSelf as the CEO / Dhecybersoldier as the ExAuthor (Who later recocile in 2025)  
+16. **ExAuthor,CEO And Co-Founder's Profile** — DheReckahHimSelf as the CEO / Dhecybersoldier as the ExAuthor (Who later reconciled in 2025)  
     [https://www.linkedin.com/in/dhereckahhimself](https://www.linkedin.com/in/dhereckahhimself)[https://www.instagram.com/dhecybersoldier/]([https://www.linkedin.com/in/dhereckahhimself](https://www.instagram.com/dhecybersoldier/))
 
 17. **X (Twitter) Profile** — DheReckahCoded (lead developer for DheReckahsTeam projects)  
