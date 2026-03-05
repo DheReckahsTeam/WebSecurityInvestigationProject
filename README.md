@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/217182461?v=4" alt="DheReckahsTeam Logo" width="140" height="140" style="border-radius: 50%; border: 4px solid #0d1117; margin: 20px 0;">
+  <img src="https://i.ibb.co/S45B2wtY/Dhe-Reckahs-Team-Web-Security-Investigation-Project.png" alt="Dhe Reckahs Team Web Security Investigation Project" border="0">
   
   <h1>DheReckahsTeam</h1>
   
