@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/DheReckahsTeam_Web_Security_Investigation_Project.png" 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/DheReckahsTeam_Web_Security_Investigation_Project.png" 
      alt="Dhe Reckahs Team Web Security Investigation Project" 
      border="0">
 
