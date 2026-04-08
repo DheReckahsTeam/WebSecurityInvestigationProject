@@ -4,7 +4,7 @@
      border="0">
 
   <h1>DheReckahsTeam</h1>
-  <span style="color: #ff6ac1; font-weight: bold;">Hybrid (Offensive+Defensive) Cybersecurity Organization</span><br>
+  <span style="color: #ff6ac1; font-weight: bold;">Decentralized Hybrid (Offensive+Defensive) Cybersecurity Organization</span><br>
   <span style="color: #ffd700; letter-spacing: 3px; font-size: 1.3rem;">LAY THE FOUNDATION OF</span><br>
   <span style="color: #a5d8ff;">DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P)</span>
  <h3>MOTTO</h3>
