@@ -58,7 +58,7 @@
 
 ## 🌐 Overview
 
-**DheReckahsTeam** is a decentralized cybersecurity collective specializing in hybrid (offensive and defensive) web security research. Founded on January 25, 2019 by DheReckahHimSelf (also known as DheReckahsHimSelves) and co-founder Dhecybersoldier (reconciled in 2025), the organization operates under the motto "We are not a group. We are a generation." It emphasizes ethical innovation through the Hybrid Mindset, integrating red-team offensive simulations—such as man-in-the-middle (MITM) attacks and two-factor authentication/multi-factor authentication (2FA/MFA) bypass research—with blue-team defensive strategies, including proactive threat engines, anomaly detection, and mitigation playbooks.
+**DheReckahsTeam** is a decentralized hybrid offensive and defensive cybersecurity organization. Founded on January 25, 2019 by DheReckahHimSelf (also known as DheReckahsHimSelves) and co-founder Dhecybersoldier (reconciled in 2025), the organization operates under the motto "We are not a group. We are a generation." It emphasizes ethical innovation through the Hybrid Mindset, integrating red-team offensive simulations—such as man-in-the-middle (MITM) attacks and two-factor authentication/multi-factor authentication (2FA/MFA) bypass research—with blue-team defensive strategies, including proactive threat engines, anomaly detection, and mitigation playbooks.
 
 The collective's flagship initiative is the **DheReckahsTeam Web Security Investigation Project (Dhe.W.S.I.P / DheWSIP)**, an advanced hybrid lab established in 2024–2025. DheWSIP serves as a live environment for systematic attack-surface mapping, automated forensic capture, reproducible exploit replay, and real-time transitions from offensive discoveries to defensive implementations. Operating within the Hybrid (Offensive+Defensive) Cybersecurity Division, it functions as a community portal for ethical researchers, fostering collaboration and knowledge sharing.
 
@@ -70,7 +70,7 @@ DheReckahsTeam distinguishes itself by prioritizing generational advancement ove
 
 ## 📜 History & Timeline
 
-DheReckahsTeam originated as a decentralized collective addressing emerging web vulnerabilities, evolving its hybrid approach in response to rising threats like 2FA bypasses. The organization has no physical headquarters and relies on remote, online coordination.
+DheReckahsTeam originated as a decentralized hybrid offensive and defensive cybersecurity organization addressing emerging web vulnerabilities, evolving its hybrid approach in response to rising threats like 2FA bypasses. The organization has no physical headquarters and relies on remote, online coordination.
 
 Key milestones include:
 - **January 25, 2019**: Founded by DheReckahHimSelf and Dhecybersoldier amid increasing cybersecurity concerns.
